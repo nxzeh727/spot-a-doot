@@ -1,0 +1,25 @@
+[{
+    
+    "name": "Heytea Sunnyvale",
+    "address": "302 W El Camino Real, Sunnyvale, CA 94087",
+    "lat":37.367880,
+    "long":-122.035811
+},
+{
+    "name": "Haidilao Hotpot",
+    "address": "19409 Stevens Creek Blvd #100, Cupertino, CA 95014",
+    "lat":37.323854,
+    "long":-122.008946
+},
+{
+    "name":"Joy dumpling",
+    "address": "10895 S Blaney Ave, Cupertino, CA 95014",
+    "lat":37.310676,
+    "long":-122.024426
+},
+{
+    "name":"Somi Somi",
+    "address":"19540 Vallco Pkwy #160, Cupertino, CA 95014",
+    "lat":37.3246713,
+    "long":-122.0106751
+}]

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Hptoaotp</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    
+    <form method="POST" action="/form">
+        <p>{{ form.hidden_tag() }}</p>
+        <div>Latitude: {{ form.lat() }}</div>
+        <div>Longitute: {{ form.lng() }}</div>
+        <div>What kind do you want?(ie. Breakfast, ice cream, etc): {{ form.stuff() }}</div>
+        <div>{{ form.submit() }}</div>
+    </form>
+
+
+  </body>
+</html>
